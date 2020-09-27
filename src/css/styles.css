@@ -154,7 +154,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-
   transition: opacity 0.3s ease-in-out;
   opacity: 0;
 }
@@ -323,6 +322,7 @@ body {
     background-image: url("../../images/icon-share-white.svg");
     background-size: 15px;
     top: 19px;
+    display: block;
   }
 
   .share-popup-container{
