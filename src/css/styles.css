@@ -159,6 +159,10 @@ body {
   opacity: 0;
 }
 
+.mobile{
+  display: none;
+}
+
 .share-popup-container.share-btn--active {
   opacity: 1;
 }
